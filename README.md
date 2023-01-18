@@ -1,5 +1,11 @@
 ## Usage
 
+Clone: <https://github.com/terodox/static-asset-separation-next>
+
+Run `npm run build`.
+
+Delete `.next/cache` folder.
+
 Copy contents of nextjs `.nets/static` folder into the `assets` folder. Delete the folder from the next app.
 
 Run this server which will start at port 8888.
